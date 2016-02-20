@@ -3,11 +3,6 @@ ELcoin development tree
 
 ELcoin is a PoS-based cryptocurrency.
 
-
-2009-2014 The Bitcoin developers
-2012-2014 The NovaCoin developers
-2016 The ELcoin developers
-
 Development process
 ===========================
 
