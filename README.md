@@ -1,7 +1,7 @@
 
 ELcoin development tree
 
-ELcoin is a PoS-based cryptocurrency.
+ELcoin is a scrypt PoW + PoS based cryptocurrency.
 
 Development process
 ===========================
