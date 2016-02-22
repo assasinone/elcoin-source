@@ -9,7 +9,7 @@ Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2016 The ELcoin developers
 =======
 ELcoin is a scrypt PoW + PoS based cryptocurrency.
->>>>>>> origin/master
+>>>>>>> master
 
 Development process
 ===========================
