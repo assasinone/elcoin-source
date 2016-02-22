@@ -1,18 +1,11 @@
 
 ELcoin development tree
 
-<<<<<<< HEAD
-ELcoin is a PoS-based cryptocurrency.
-
-Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2016 The ELcoin developers
-=======
 ELcoin is a scrypt PoW + PoS based cryptocurrency.
->>>>>>> master
+
 
 Development process
-===========================
+
 
 Developers work in their own trees, then submit pull requests when
 they think their feature or bug fix is ready.
